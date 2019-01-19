@@ -1,0 +1,6 @@
+[submodule "venuegen"]
+	path = venuegen
+	url = https://github.com/kueller/venuegen
+[submodule "ProToLH"]
+	path = ProToLH
+	url = https://github.com/kueller/ProToLH
